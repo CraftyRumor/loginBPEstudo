@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: url(/img/fundo-desktop.jpg);
+    background-position: right top;
+    background-size: 99%;
+    
+
+}
+
+
+.login{
+    background: rgba(18, 49, 45, 0.97);
+    position: relative;
+    width: 390px;
+    height: 500px;
+    overflow: hidden;
+    padding: 100px;
+}
+
+.Logo{
+    margin-top: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.headline{
+    font-size: 40px;
+    font-family: Playfair;
+    font-weight: 800;
+    color: white;
+}
+
+.subtitle{
+    color: #d4d3d3;
+    font-size: 11px;
+    font-size: 100;
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.line2{
+    margin-top: 5px;
+}
+
+.assinar{  
+    padding: 10px;
+    margin-top: 60px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: #0c9484;
+    color: white;
+    width: 100%;
+    height: 47px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.login2{
+    padding: 10px;
+    margin-top: 9px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: #12211f;
+    color: white;
+    width: 100%;
+    height: 47px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+footer{
+    background: black;
+    position: relative;
+    width:auto;
+    height: 70px;
+    overflow: hidden;
+    
+}
+
+.help{
+    width: 400px;
+    padding: 13px;
+    margin-top: 20px;
+    align-items: center;
+    margin-left: 100px;
+    font-size: 19px;
+    border-radius: 3px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+.help:hover{
+    background-color: #0e0d0d;
+    cursor: pointer;
+}
